@@ -26,7 +26,7 @@ Please post your [**feature suggestions** to our User Voice site](https://breeze
 
 <a href="mailto:breeze@ideablade.com/?subject=Tell me about professional services" title="Professional Services">Learn about IdeaBlade's <strong>professional services</strong></a> from training through application development</a>.
 
-##Documentation
+## Documentation
 
 [**Samples** and Breeze-related code for server development](https://github.com/Breeze "Breeze sample repositories on github") reside in sibling Breeze repositories such as [breeze.js.samples](https://github.com/Breeze/breeze.js.samples "BreezeJS samples"). Documentation on the samples at: http://breeze.github.io/doc-samples/
 
