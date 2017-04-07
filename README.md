@@ -1,4 +1,4 @@
-#! [BreezeJS](http://breeze.github.io/images/logos/BreezeJsB.png "BreezeJS")
+#![BreezeJS](http://breeze.github.io/images/logos/BreezeJsB.png "BreezeJS")
 
 ### Welcome to "**Breeze for JavaScript**" by [**IdeaBlade**](http://www.ideablade.com "IdeaBlade website"). 
 
