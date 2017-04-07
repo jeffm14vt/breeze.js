@@ -1,12 +1,12 @@
 [BreezeJS](http://breeze.github.io/images/logos/BreezeJsB.png "BreezeJS")
 
-###Welcome to "**Breeze for JavaScript**" by [**IdeaBlade**](http://www.ideablade.com "IdeaBlade website"). 
+### Welcome to "**Breeze for JavaScript**" by [**IdeaBlade**](http://www.ideablade.com "IdeaBlade website"). 
 
 This repository holds the Breeze assets **for HTML/JS client development**. 
 
 For documentation: http://breeze.github.io/doc-js/
 
-##Support
+## Support
 
 **For technical questions, please go to [StackOverflow with the tag "breeze"](http://stackoverflow.com/questions/tagged/breeze?sort=newest "BreezeJS on StackOverflow").**
 
